@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Max Koverdyaev.
 Just a few words about me.
 
-At the moment I'm an independent software architect and consulter. I worked in different domains including: 
-e-commerce, media, travel, digital healthcare, constructing and management companies.
+At the moment I'm an independent software architect and consulter. I worked in different domains including 
+e-commerce, media, travel, digital healthcare, construction and management companies.
 
-With over 10 years experience in software engineering I have expertise in mostly all aspects
+With over 10 years of experience in software engineering I have expertise in mostly all aspects
 of development including architecture, implementation, deployment and maintenance of scalable digital services.
 
 Sometimes I write to my [blog](https://shadeglare.medium.com).
