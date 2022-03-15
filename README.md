@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Max Koverdyaev.
 Just a few words about me.
 
-At the moment I'm an independent software architect and consultant. I worked in different domains including 
+At the moment I'm an independent software engineer focusing on blockchain, web3, DeFi. Previously I worked in different domains including 
 e-commerce, media, travel, digital healthcare, construction and management companies.
 
 With over 10 years of experience in software engineering I have expertise in mostly all aspects
