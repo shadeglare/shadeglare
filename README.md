@@ -11,7 +11,6 @@ Sometimes I write to my [blog](https://shadeglare.medium.com).
 
 ### I founded and participated in founding of some software organizations
 * [Hexarc Software](https://github.com/hexarc-software)
-* [Knyte Foundation](https://github.com/knyte-foundation)
 
 ### Profiles
 * [StackOverflow](https://stackoverflow.com/users/334904/shadeglare)
