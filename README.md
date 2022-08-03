@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Max Koverdyaev.
-![Profile views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhexarc-counter.herokuapp.com%2Fviews%3Fname%3Dshadeglare%26label%3DProfile%2520views%26accounted%3Dtrue)
+![Profile views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhexarc-counter.herokuapp.com%2Fviews%3Fname%3Dshadeglare%26label%3DProfile%2520views%26accounted%3Dtrue&cacheSeconds=0)
 ![GitHub followers](https://img.shields.io/github/followers/shadeglare)
 
 Just a few words about me.
