@@ -10,7 +10,9 @@ e-commerce, media, travel, digital healthcare, construction and management compa
 With over 10 years of experience in software engineering I have expertise in mostly all aspects
 of development including architecture, implementation, deployment and maintenance of scalable digital services.
 
-Sometimes I write to my [blog](https://shadeglare.medium.com).
+Sometimes I write to my blogs:
+* [Medium](https://shadeglare.medium.com)
+* [Dev.to](https://dev.to/shadeglare)
 
 ### I founded and participated in founding of some software organizations
 * [Hexarc Software](https://github.com/hexarc-software)
