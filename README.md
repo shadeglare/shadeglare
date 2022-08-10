@@ -16,6 +16,7 @@ Sometimes I write to my blogs:
 
 ### I founded and participated in founding of some software organizations
 * [Hexarc Software](https://github.com/hexarc-software)
+* [Rathe Technologies](https://github.com/rathe-tech)
 
 ### Profiles
 * [StackOverflow](https://stackoverflow.com/users/334904/shadeglare)
