@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Max Koverdyaev.
 [![Donate solana](https://img.shields.io/static/v1?label=Fondify&message=Donate%20%24SOL&color=blueviolet)](https://fondify.app/to/9qjvN4GZf78M2JsLUxXUNQWnDo96s12Zzzkzoo8cFpqw)
-[![Profile views](https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fhexarc-counter.onrender.com%2Fviews%3Fname%3Dshadeglare%26label%3Dprofile%2520views)](https://github.com/shadeglare)
+[![Profile views](https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fhexarc-counter.onrender.com%2Fviews%3Fname%3Dshadeglare%26label%3DProfile%2520views)](https://github.com/shadeglare)
 <img src="https://hexarc-counter.onrender.com/tracker?name=shadeglare">
 
 Just a few words about me.
