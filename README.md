@@ -9,12 +9,18 @@ e-commerce, media, travel, digital healthcare, construction and management compa
 With over 10 years of experience in software engineering I have expertise in mostly all aspects
 of development including architecture, implementation, deployment and maintenance of scalable digital services.
 
-### I founded and participated in founding of some software organizations
-* [Fondify](https://fondify.app) - Donation platform on the Solana blockchain
-* [Hexarc Software](https://github.com/hexarc-software) - Open source software tools and utilities
-* [Rathe Technologies](https://github.com/rathe-tech) - Human-centric web3, crypto, blockchain solutions
+### Currently I'm workin on
+* [Klend](https://klend.xyz) - An alternative UI for the [Kamino](https://app.kamino.finance) lending markets
+* [Udlmm](https://udlmm.xyz) - A tiny client for the the [Meteora](https://app.meteora.ag) dynamic liquidity market maker (DLMM)
 
-Sometimes I write to my blogs:
+### I founded and participated in founding of some software organizations
+
+* [Rathe Technologies](https://github.com/rathe-tech) - Human-centric web3, crypto, blockchain solutions
+* [Hexarc Software](https://github.com/hexarc-software) - Open source software tools and utilities
+* [Fondify](https://fondify.app) - Donation platform on the Solana blockchain
+
+
+Sometimes I write to my blogs
 * [Medium](https://shadeglare.medium.com)
 * [Dev.to](https://dev.to/shadeglare)
 
