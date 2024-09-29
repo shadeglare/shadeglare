@@ -1,5 +1,4 @@
 ### Hi 👋, I'm Max Koverdyaev.
-[![Donate solana](https://img.shields.io/static/v1?label=Fondify&message=Donate%20%24SOL&color=blueviolet)](https://fondify.app/to/9qjvN4GZf78M2JsLUxXUNQWnDo96s12Zzzkzoo8cFpqw)
 
 Just a few words about me.
 
