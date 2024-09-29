@@ -16,8 +16,6 @@ of development including architecture, implementation, deployment and maintenanc
 
 * [Rathe Technologies](https://github.com/rathe-tech) - Human-centric web3, crypto, blockchain solutions
 * [Hexarc Software](https://github.com/hexarc-software) - Open source software tools and utilities
-* [Fondify](https://fondify.app) - Donation platform on the Solana blockchain
-
 
 Sometimes I write to my blogs
 * [Medium](https://shadeglare.medium.com)
