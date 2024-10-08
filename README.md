@@ -10,7 +10,7 @@ of development including architecture, implementation, deployment and maintenanc
 
 ### Currently I'm workin on
 * [Klend](https://klend.xyz) - An alternative UI for the [Kamino](https://app.kamino.finance) lending markets
-* [Udlmm](https://udlmm.xyz) - A tiny client for the the [Meteora](https://app.meteora.ag) dynamic liquidity market maker (DLMM)
+* [Udlmm](https://udlmm.xyz) - A tiny client for the [Meteora](https://app.meteora.ag) dynamic liquidity market maker (DLMM)
 
 ### I founded and participated in founding of some software organizations
 
