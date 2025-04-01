@@ -9,8 +9,8 @@ With over 10 years of experience in software engineering I have expertise in mos
 of development including architecture, implementation, deployment and maintenance of scalable digital services.
 
 ### Currently I'm workin on
-* [Klend](https://klend.xyz) - An alternative UI for the [Kamino](https://app.kamino.finance) lending markets
 * [Udlmm](https://udlmm.xyz) - A tiny client for the [Meteora](https://app.meteora.ag) dynamic liquidity market maker (DLMM)
+* [Klend](https://klend.xyz) - An alternative UI for the [Kamino](https://app.kamino.finance) lending markets
 
 ### I founded and participated in founding of some software organizations
 
